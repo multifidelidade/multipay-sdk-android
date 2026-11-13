@@ -25,7 +25,7 @@ App ──"e o pedido 123, pagou?"──► Seu backend (confirma por webhook/GE
 ```kotlin
 // build.gradle.kts
 // settings.gradle.kts: repositories { maven("https://jitpack.io") }
-dependencies { implementation("com.github.multifidelidade:multipay-sdk-android:0.1.0") }
+dependencies { implementation("com.github.multifidelidade.multipay-sdk-android:multipay-android:0.1.0") }
 ```
 
 ```kotlin
